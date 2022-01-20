@@ -12,6 +12,9 @@
 ### Database
 - PostgreSQL
 
+### Submission
+- Create a new branch with your name-surname-date and commit your changes.
+
 ## Tasks
 
 ### 1. Create REST API for adding new orders with input validation

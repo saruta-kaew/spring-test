@@ -48,6 +48,7 @@ Response when creating successfully with status 201 created
 }
 
 ```
+NOTE: All timestamp fields should be in UTC timezone
 
 1.2 Add new orders failed with invalid input
 ```

@@ -27,13 +27,13 @@ POST: localhost:8080/v1/orders
     "orders": [
         {
             "orderId": "A00001",
-            "purchaseOrderNumber": "POA00001"
+            "purchaseOrderNumber": "POA00001",
             "shipDate": "2021-11-25T23:04:06Z",
             "productId": "A01"
         },
         {
             "orderId": "A00002",
-            "purchaseOrderNumber": "POA00002"
+            "purchaseOrderNumber": "POA00002",
             "shipDate": "2021-11-29T23:04:06Z",
             "productId": "A02"
         }
@@ -58,13 +58,13 @@ POST: localhost:8080/v1/orders
     "orders": [
         {
             "orderId": "     ",
-            "purchaseOrderNumber": ""
+            "purchaseOrderNumber": "",
             "shipDate": null,
             "productId": ""
         },
         {
             "orderId": "A0",
-            "purchaseOrderNumber": "POA000"
+            "purchaseOrderNumber": "POA000",
             "shipDate": "2021-11-29",
             "productId": "A"
         }

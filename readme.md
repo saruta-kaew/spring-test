@@ -205,4 +205,3 @@ B01  | Banana
 B02  | Watermelon
 
 ### 4. Please list on what and how can we improve?
-Example: Add authorization for ordering a product
